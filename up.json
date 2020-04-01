@@ -1,0 +1,8 @@
+{
+  "name": "gridsome-app",
+  "profile": "default",
+  "type": "static",
+  "static": {
+    "dir": "dist"
+  }
+}
